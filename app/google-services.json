@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716395023068",
+    "project_id": "signinjetpackcompose-40c15",
+    "storage_bucket": "signinjetpackcompose-40c15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716395023068:android:e6ff4c38afa0f26cff8219",
+        "android_client_info": {
+          "package_name": "com.example.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716395023068-e12n6i71nomu11lbeevbfe33gfq8dk3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqn5Dsk7medfck9Kx7ZMkf76XfI-76_Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716395023068-e12n6i71nomu11lbeevbfe33gfq8dk3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
